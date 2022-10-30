@@ -6,5 +6,5 @@ Simply run Demo_Rendering.m
 
 # Output
 <p align="center">
-  <img src="pt01.png" width="100%" height="100%"><br>
+  <img src="pt01.png" width="50%" height="50%"><br>
 </p>
